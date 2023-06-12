@@ -1,0 +1,113 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  header {
+    background-color: #00449e;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+
+  h1 {
+    margin: 0;
+    font-size: 28px;
+  }
+
+  nav {
+    background-color: none;
+    padding: 10px;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    display: table;
+    margin-bottom: 3px;
+    margin-top: 3px;
+  }
+
+  section {
+    padding: 20px;
+  }
+
+  h2 {
+    color: orangered;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  .Buttons {
+    display: inline-block;
+    margin-right: 10px;
+  }
+
+  .Buttons {
+    color: #333;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+  }
+
+  .Buttons:hover {
+    background-color: none;
+  }
+
+  #Countries {
+    margin-top: 5px;
+  }
+
+  #Preference {
+    list-style-type: square;
+  }
+
+  #Countries {
+    background: url(../../../content/dam/gtwenty/about_g20/g20_flags/Flags-bg1.png) 0 0 no-repeat, url(../../../content/dam/gtwenty/about_g20/g20_flags/Flags-bg2.png) 100% 100% no-repeat;
+    background-color: #fcefdf;
+    background-size: 300px;
+  }
+
+  #about {
+    align-self: center;
+  }
+
+  h3 {
+    align-items: center;
+    color: orangered;
+    font-size: 24px;
+  }
+
+  .container {
+    margin: auto;
+    width: 60%;
+    border: none;
+    padding: 10px;
+  }
+
+  .co {
+    display: inline-block;
+    margin-right: 20px;
+  }
+
+  .g20-background {
+    background-color: none;
+    background-image: "url('img/paper-1074136_1920')";
+  }
+.Navigation {
+  padding: 0.001px;
+}
+  p {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  #social-media {
+    display: block;
+    align-self: center;
+  }
+  
